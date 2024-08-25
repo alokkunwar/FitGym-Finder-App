@@ -1,0 +1,34 @@
+toronto
+montreal
+calgary
+edmonton
+ottawa
+winnipeg
+mississauga
+vancouver
+brampton
+hamilton
+quebec
+surrey
+laval
+london
+markham
+vaughan
+gatineau
+saskatoon
+longueuil
+kitchener
+burnaby
+windsor
+regina
+richmond
+richmond hill
+burlington
+greater sudbury
+sherbrooke
+oshawa
+saguenay
+levis
+barrie
+abbotsford
+coquitlam

@@ -1,0 +1,75 @@
+toronto
+montreal
+vancouver
+calgary
+edmonton
+ottawa
+winnipeg
+quebec city
+hamilton
+kitchener
+london
+victoria
+halifax
+oshawa
+windsor
+saskatoon
+regina
+st. john's
+barrie
+kelowna
+sherbrooke
+trois-rivières
+saint john
+thunder bay
+moncton
+guelph
+kingston
+sudbury
+sault ste. marie
+penticton
+chatham-kent
+kamloops
+chilliwack
+fredericton
+prince george
+drummondville
+brooks
+saint-hyacinthe
+granby
+courtenay
+brandon
+drumheller
+wood buffalo
+nelson
+victoriaville
+campbell river
+rimouski
+prince rupert
+leamington
+timmins
+orillia
+grande prairie
+rouyn-noranda
+val-d'or
+victoriaville
+prince albert
+campbellton
+baie-comeau
+camrose
+corner brook
+fort st. john
+whitehorse
+powell river
+yarmouth
+swift current
+portage la prairie
+thompson
+moose jaw
+terrace
+yellowknife
+the pas
+red deer
+north battleford
+merritt
+gander
